@@ -1,0 +1,2 @@
+sample,group,short_reads_1,short_reads_2,long_reads,short_reads_platform
+sample1,0,/flash/SzollosiU/fatima-li/trial_nf-core/ERR011347_1.fastq.gz,/flash/SzollosiU/fatima-li/trial_nf-core//ERR011347_2.fastq.gz,,ILLUMINA

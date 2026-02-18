@@ -5,7 +5,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=12
 
-cd /flash/SzollosiU/fatima-li/trial_nf-core
+cd /flash/PATH
 
 module load bioinfo-ugrp-modules
 module load Nextflow2/25.10.4

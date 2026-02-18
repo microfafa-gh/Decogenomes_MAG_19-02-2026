@@ -1,6 +1,6 @@
 {
-    "input": "\/flash\/SzollosiU\/fatima-li\/trial_nf-core\/samplesheet_shortreadonly.csv",
-    "outdir": "\/flash\/SzollosiU\/fatima-li\/trial_nf-core\/output\/",
+    "input": "\/flash\/PATH\/samplesheet_shortreadonly.csv",
+    "outdir": "\/flash\/PATH\/output\/",
     "clip_tool": "fastp",
     "gtdb_db": "--gtdb_db ${GTDBTK_DATA_ARCHIVED} ",
     "gtdbtk_pplacer_cpus": 12,
